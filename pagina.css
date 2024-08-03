@@ -1,0 +1,20 @@
+@import url('file:///C:/Users/Mi%20Equipo/Documents/ejersicios%20de%20Breiner/pagina%20de%20utiles.html#')
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Open Sans';
+}
+
+nav{
+	max-width: 900px;
+	margin: auto;
+	background-color: #333;
+	font-size: 20px;
+	margin-top: 50px;
+}
+.menu-horizontal{
+	list-style: none;
+	display: flex;
+	justify-content: space-around;
+}
